@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\React Examples"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Machine Learning"
+	},
+	"editor.formatOnSave": true,
+}
