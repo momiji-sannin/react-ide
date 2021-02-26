@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 import React, { Component } from "react";
 import "./App.css";
-import LoginForm from "./components/LoginForm";
+import LoginForm from "./Screens/Login/components/LoginForm";
 
 class App extends Component {
 	state = {};
@@ -14,7 +13,4 @@ class App extends Component {
 	}
 }
 
-=======
-const App = (props) => props.children;
->>>>>>> a87cb9ee6d3b9ad710f0ccb1095d89773c2048cf
 export default App;
