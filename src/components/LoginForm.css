@@ -1,0 +1,18 @@
+.login-rectangle {
+    position: relative;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    height: 400px;
+    width: 600px;
+    background-color: rgb(247, 248, 255);
+    border-radius: 10px;
+}
+
+.title {
+    position: relative;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 50%;
+    text-align: center;
+}

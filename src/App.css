@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.login-bgimage{
+  background: url("./images/cool-background.png");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
